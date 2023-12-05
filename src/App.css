@@ -1,0 +1,11 @@
+/* nav bar */
+.navbar-nav a{
+  font-size: 1.2rem;
+}
+.back:hover{
+  background-color: orange;
+  border-radius: 10px;
+}
+.font{
+  font-family: MV Boli;
+}
